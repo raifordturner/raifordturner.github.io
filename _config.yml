@@ -1,8 +1,13 @@
 title: "Raif Turner"
 description: "Sharing my ideas, explorations, and side projects"
-author: "Raiford Turner"
 email: "raifordturner@gmail.com"
 baseurl: ""
 url: "https://raifordturner.github.io"
-theme: "jekyll-theme-cayman"
+theme: "jekyll-theme-minimal"
 markdown: kramdown
+
+# Social links
+social_links:
+  twitter: your_twitter_handle
+  linkedin: your_linkedin_url
+  github: your_github_url
