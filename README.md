@@ -1,10 +1,6 @@
-# RAIF TURNER
-
-
 ## ABOUT ME
 
-### EDUCATION
 
+## PROJECTS
 
-### WORK EXPERIENCE
 
