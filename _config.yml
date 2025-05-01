@@ -1,8 +1,8 @@
-title: "Raif Turner Portfolio"
+title: "Raif Turner"
 description: "Sharing my ideas, explorations, and side projects"
 author: "Raiford Turner"
 email: "raifordturner@gmail.com"
-baseurl: "" # Leave blank for your root domain
-url: "https://raifordturner.github.io" # Replace with your GitHub Pages URL
-theme: "jekyll-theme-cayman" # Or use a custom theme
+baseurl: ""
+url: "https://raifordturner.github.io"
+theme: "jekyll-theme-cayman"
 markdown: kramdown
