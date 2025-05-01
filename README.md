@@ -1,3 +1,10 @@
 # RAIF TURNER
 
 
+## ABOUT ME
+
+### EDUCATION
+
+
+### WORK EXPERIENCE
+
