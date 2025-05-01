@@ -4,9 +4,3 @@ email: "raifordturner@gmail.com"
 url: "https://raifordturner.github.io"
 theme: "jekyll-theme-minima"
 markdown: kramdown
-
-# Social links
-social_links:
-  twitter: your_twitter_handle
-  linkedin: your_linkedin_url
-  github: your_github_url
